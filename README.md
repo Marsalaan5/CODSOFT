@@ -1,3 +1,5 @@
+LANDING PAGE - GYM WEBSITE
+
 ![image](https://github.com/Marsalaan5/CODSOFT/assets/95494065/515fe3cd-aa9d-4e42-bafc-70f591a68ac7)
 Welcome to our Golden Fitness Website, a dynamic and interactive platform crafted with HTML, CSS, and JavaScript. This website is designed to elevate your fitness experience and provide a user-friendly interface for exploring our fitness programs and services.
 
@@ -13,6 +15,9 @@ Customizable Plans: Tailor your fitness journey with personalized workout plans 
 
 Contact Form: Interested in collaboration or just want to say hello? Reach out through the integrated contact form.
 
+
+PORTFOLIO WEBSITE -
+
 ![image](https://github.com/Marsalaan5/CODSOFT/assets/95494065/1dd612fe-2c24-4674-9363-025ee8f68951)
 Welcome to my Portfolio Website, a showcase of my skills, projects, and experiences. This website is crafted with HTML, CSS, and JavaScript to provide a visually appealing and interactive representation of my professional journey.
 
@@ -27,6 +32,9 @@ Skills Section: Discover the technologies I specialize in and my proficiency lev
 About Me: Learn more about my background, passion for coding, and the unique perspective I bring to the world of development.
 
 Contact Form: Interested in collaboration or just want to say hello? Reach out through the integrated contact form.
+
+
+SIMPLE CALCULATOR - 
 
 ![image](https://github.com/Marsalaan5/CODSOFT/assets/95494065/c55cf8a4-56e7-4780-b51b-03ac4adfa083)
 Welcome to my simple calculator project! This project is a basic yet functional calculator implemented with HTML, CSS, and JavaScript. It provides a user-friendly interface for performing essential arithmetic operations.
